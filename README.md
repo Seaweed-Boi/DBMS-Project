@@ -1,2 +1,2 @@
-# DBMS---Project
+# DBMS-Project
 Disaster Management
